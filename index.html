@@ -1,5 +1,5 @@
 ---
-layout: default
+<!-- layout: default -->
 title: Home
 ---
 
@@ -18,8 +18,7 @@ title: Home
   </article>
   {% endfor %}
 </div>
-
- <div class="pagination">
+<div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
   {% else %}
@@ -30,4 +29,4 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> 

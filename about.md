@@ -4,7 +4,7 @@ title: About
 ---
 
 
-I'm Meaad 23 years old, computer Science graduate.
+I'm Meaad 23 years old, computer science graduate.
 
 My passion for Data science started with my graduation project.
 
